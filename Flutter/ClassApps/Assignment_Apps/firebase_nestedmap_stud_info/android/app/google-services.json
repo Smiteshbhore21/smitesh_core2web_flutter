@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84951190534",
+    "project_id": "student-info-73301",
+    "storage_bucket": "student-info-73301.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84951190534:android:51697dd8e8e9b90c7f4787",
+        "android_client_info": {
+          "package_name": "com.example.firebase_nestedmap_stud_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoKpzJUlRbYOE0Qul1lI8H2MKatqr-pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
