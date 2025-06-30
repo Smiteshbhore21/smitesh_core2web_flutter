@@ -1,0 +1,33 @@
+name: movie_streaming_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  carousel_slider: ^5.0.0
+  cloud_firestore: ^5.6.8
+  firebase_auth: ^5.6.0
+  firebase_core: ^3.13.1
+  flutter:
+    sdk: flutter
+  get: ^4.7.2
+  google_fonts: ^6.2.1
+  http: ^1.3.0
+  shared_preferences: ^2.5.3
+  video_player: ^2.10.0
+  youtube_player_flutter: ^9.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/start_screen/
+  - assets/login_screen/
+  - assets/drawer_screen/
